@@ -49,7 +49,7 @@ The bucket has **Block all public access enabled**.
 
 This prevents the documents from being exposed through public bucket/object access unless the configuration is intentionally changed.
 
-![S3 Block Public Access](screenshots/s3-permissions.png)
+![S3 Block Public Access](blockpublicaccess.png)
 
 ---
 
