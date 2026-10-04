@@ -80,7 +80,7 @@ The HR folder contains:
 employee-policy.txt
 ```
 
-![HR Folder](screenshots/hr-folder.png)
+![HR Folder](HR.png)
 
 ### Finance Folder
 
@@ -90,7 +90,7 @@ The Finance folder contains:
 salary-report.txt
 ```
 
-![Finance Folder](screenshots/finance-folder.png)
+![Finance Folder](finance.png)
 
 ### Projects Folder
 
@@ -100,7 +100,7 @@ The Projects folder contains:
 AWS Project.txt
 ```
 
-![Projects Folder](screenshots/projects-folder.png)
+![Projects Folder](projects.png)
 
 ---
 
@@ -116,7 +116,7 @@ was created for controlled access to the S3 document storage.
 
 The policy provides limited S3 list/read/write access rather than making the bucket public.
 
-![IAM Policy](screenshots/iam-policy.png)
+![IAM Policy](policy.png)
 
 ### Intended permissions
 
@@ -142,7 +142,7 @@ MFA Delete: Disabled
 
 Versioning allows multiple variants of the same object to be retained.
 
-![S3 Versioning](screenshots/versioning.png)
+![S3 Versioning](versioning.png)
 
 ---
 
@@ -193,7 +193,7 @@ AWS Project Documentation - Version 1
 Two-tier AWS application project.
 ```
 
-![Recovered Earlier Version](screenshots/recovered-version.png)
+![Recovered Earlier Version](Recovered Earlier Version.png)
 
 This demonstrates the required recovery of an earlier S3 object version.
 
